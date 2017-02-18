@@ -1,0 +1,4 @@
+package mylib
+modules = bool, unit, bit, byte2, binary, byte4, byte8, uint8, nat, ifthenelse,
+list_nat, list, eq, pair, option, dictionary, uint8, icon, fib
+opts = "--nobasepkgs --noprelude --nobuiltins"

@@ -1,0 +1,5 @@
+package mytests
+modules = boolTest, unitTest, bitTest, byteTest, binaryTest, listTest, eqTest,
+pairTest
+opts = "--nobasepkgs --noprelude --nobuiltins"
+pkgs = mylib
